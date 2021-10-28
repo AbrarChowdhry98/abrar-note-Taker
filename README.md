@@ -21,7 +21,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 ## Project Mock-Up
-![11-express-homework-demo-01]()
+![11-express-homework-demo-01](https://github.com/AbrarChowdhry98/Note-Taker/blob/main/public/assets/images/11-express-homework-demo-01.png)
 
 ![11-express-homework-demo-02]()
 
