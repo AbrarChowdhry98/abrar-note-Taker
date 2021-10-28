@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Note Taker Starter Code
+# Abrar's Note Taker 
 
 ## Description
 Note Taker is a small web application that allows the user to write snd save notes to a list, also delete unwanted notes. The entire application is generated using nodeJs, express npm and insomnia for testing the ports and routes and heroku for deploying. Javascript is used to create routes such as api routes and html routes to GET and also POST to the server.
@@ -17,9 +16,6 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Project URl
-
-
-
 
 ## Github Repository link
 
@@ -64,6 +60,3 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-=======
-# Abrar's Note Taker 
->>>>>>> 99201501b1ec4bbbe6e4be1352bc32bbaedfc992
