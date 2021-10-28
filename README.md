@@ -23,15 +23,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Project Mock-Up
 ![11-express-homework-demo-01](https://github.com/AbrarChowdhry98/Note-Taker/blob/main/public/assets/images/11-express-homework-demo-01.png)
 
-![11-express-homework-demo-02]()
+![11-express-homework-demo-02](https://github.com/AbrarChowdhry98/Note-Taker/blob/main/public/assets/images/11-express-homework-demo-02.png)
 
 
 ## Project Screenshot
-![NoteTaker_Screenshot]()
-
-![NoteTaker_Screenshot_01]()
-
-![NoteTaker_Screenshot_02]()
+![NoteTaker_Screenshot](https://github.com/AbrarChowdhry98/Note-Taker/blob/main/public/assets/images/Screenshot%20.jpg)
 
 ## Installation
 npm start at the command prompt to run the server.
